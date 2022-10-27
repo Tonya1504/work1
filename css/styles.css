@@ -1,0 +1,30 @@
+.conteiner{
+  display: flex; justify-content: space-between; background-color: rgb(110, 105, 103); flex-basis: 33%; font-size: 16px; list-style: none;
+}
+
+.page{
+  display: flex; justify-content: space-around; background-color: #f1f1f1;
+}
+.page1{
+ flex-direction: column; background-color: darkgray; margin: 20px;
+}
+.page2{
+flex-direction: column; background-color: darkgrey; margin: 20px;
+}
+
+.footer{
+  display: flex; justify-content: center;
+}
+.name2{
+  font-size: 16px;
+}
+.name3{
+  font-size: 16px;
+}
+.footer{
+  background-color: #f1f1f1;
+}
+
+.block{
+  margin: 20px; margin-bottom: 40px;
+}
